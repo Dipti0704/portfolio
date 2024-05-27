@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    background-color: #a316b6; /* Dark background color */
+    color: #d1c7c7;
+    /*min-height: 10vh;*/
+    /* width: 100vw;
+    height: 100vh; */
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 5rem;
+  
+
+}
+.nav-links:hover{
+    cursor: pointer;
+
+}
+.nav-links li {
+    display: flex;
+    align-items: center;
+  
+}
+.nav-links a{
+    text-decoration: none;
+}
+

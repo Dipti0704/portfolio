@@ -1,0 +1,40 @@
+.intro {
+    background-color: rgb(105, 73, 103);
+    text-align: left ;
+    padding: 20px;
+    display: flex;
+
+
+}
+.social-container{
+    /* display: flex; */
+    flex-direction: row;
+    width: 40%;
+    height: auto;
+    /* justify-content: space-between; */
+}
+.images{
+    padding: 15px;
+}
+.images:hover{
+    cursor: pointer;
+    background-color: rgb(155, 65, 150);
+    border-radius: 10 px ;
+}
+.IntroImage{
+    padding-right: 2em;
+    height: 100%;
+}
+.intro{
+    padding-left: 10em;
+    padding-right: 10em;
+
+}
+.intro_container{
+    justify-content: center;
+    align-self: center;
+    text-align: justify;
+    padding-right: 4em
+    ;
+    
+}

@@ -18,6 +18,7 @@
 }
 .nav-links:hover{
     cursor: pointer;
+    background-color: rgb(155, 65, 150);
 
 }
 .nav-links li {

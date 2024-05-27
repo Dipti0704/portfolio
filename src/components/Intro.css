@@ -1,10 +1,14 @@
-.intro {
+.firstPart {
     background-color: rgb(105, 73, 103);
     text-align: left ;
     padding: 20px;
     display: flex;
 
 
+}
+.intro{
+    background-color: rgb(105, 73, 103);
+ 
 }
 .social-container{
     /* display: flex; */
@@ -28,6 +32,7 @@
 .intro{
     padding-left: 10em;
     padding-right: 10em;
+    padding-bottom: 10em;
 
 }
 .intro_container{
@@ -38,3 +43,32 @@
     ;
     
 }
+.skill_and_description{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 50em;
+}
+
+
+
+.one{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    margin :0%;
+}
+.img{
+  
+    width: 200px;
+    height: auto;
+    padding-right : 0em;
+   
+}
+.description{
+    margin-right: 10%;
+}
+
+
+

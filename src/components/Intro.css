@@ -43,31 +43,50 @@
     ;
     
 }
-.skill_and_description{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding-left: 50em;
+
+.whatIdo h1{
+    font-size: 3em;
 }
-
-
+.skill h1{
+    font-size: 2em;
+}
 
 .one{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 20px;
-    margin :0%;
 }
-.img{
-  
-    width: 200px;
+
+.skill_and_description{
+    display: flex;
+    flex-direction: column;
+    max-width: 40vw;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.image{
+    max-width: 10vw;
     height: auto;
-    padding-right : 0em;
-   
+}
+.image img{
+    width: 40vw;
+    height: auto;
 }
 .description{
     margin-right: 10%;
+}
+.skillImage{
+    display: flex;
+    flex-direction: row;
+   
+}
+.skillImage img{
+    width: 10vw;
+    height: auto;
 }
 
 

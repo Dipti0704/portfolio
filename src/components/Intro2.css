@@ -1,0 +1,75 @@
+.devImage img{
+    max-width: 40vw;
+    height: auto;
+}
+.ihtml{
+    max-width: 5vw;
+    height: auto;
+}
+.icss{
+    max-width: 5vw;
+    height: auto;
+}
+.ijavascript{
+    max-width: 5vw;
+    height: auto;
+}
+.ibootstrap {
+    max-width: 8vw;
+    height: auto;
+}
+.ireact{
+    max-width: 5vw;
+    height: auto;
+}
+.inodejs{
+    max-width: 10vw;
+    height: auto;
+}
+.webdev {
+    text-align: center;
+}
+.firstPart{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+   
+    padding-bottom: 10em;
+}
+.webdev{
+    padding-left: 10em;
+    padding-right: 10em;
+}
+.intro2{
+    background-color:  rgb(105, 73, 103) ;
+}
+.text{
+    text-align: justify;
+}
+
+.dimg{
+    max-width: 30vw;
+    height: auto;
+}
+.devImage{
+    padding-left: 10em;
+    padding-right: 10em
+    ;
+}
+.dsa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10em;
+}
+.dsaText h1{
+    font-size: 2em;
+    text-align: center;
+}
+
+.dsaText{
+    text-align: justify;
+    padding-left: 10em;
+    padding-right: 10em;
+}

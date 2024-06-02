@@ -14,10 +14,10 @@ function Header(){
               {/* <a href="{intro}">Home</a> */}
               <Link to="/">Home</Link>
             </li>
-            <li>
-              {/* <a href="#education">Education</a> */}
+            {/* <li>
+              { <a href="#education">Education</a> }
               <Link to="/education">Education</Link>
-            </li>
+            </li> */}
             <li>
               {/* <a href="#skills">Skills</a> */}
               <Link to="/skills">Skills</Link>

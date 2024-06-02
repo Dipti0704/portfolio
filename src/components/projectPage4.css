@@ -1,0 +1,32 @@
+.box1 img{
+    width:  40vw;
+    height: auto;
+    
+}
+.box1{
+    padding-top: 6rem;
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    
+   
+    color: #d1c7c7;
+    /*min-height: 10vh;*/
+    /* width: 100vw; */
+    height: 100vh;
+}
+.box2{
+    padding-top: 20rem;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #777272;
+    padding-left: 4rem;
+    padding-right: 4rem;
+
+}
+.box2 h1{
+    color: black;
+}

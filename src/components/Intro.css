@@ -46,6 +46,7 @@
 
 .whatIdo h1{
     font-size: 3em;
+    text-align: center;
 }
 .skill h1{
     font-size: 2em;
@@ -54,7 +55,7 @@
 .one{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .skill_and_description{
@@ -88,6 +89,7 @@
     width: 10vw;
     height: auto;
 }
+
 
 
 

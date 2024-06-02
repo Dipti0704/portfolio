@@ -18,15 +18,28 @@
 }
 .nav-links:hover{
     cursor: pointer;
-    background-color: rgb(155, 65, 150);
+   
+
+}
+.nav-links a::after{
+    content:"";
+    display:block;
+    height: 2px;
+    width:0;
+    background: white;
+    transition: width 0.3s ease;
 
 }
 .nav-links li {
     display: flex;
     align-items: center;
+    margin-left: 10px;
   
 }
 .nav-links a{
     text-decoration: none;
 }
 
+.nav-links a:hover::after{
+    width:100%;
+}

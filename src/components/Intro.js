@@ -65,9 +65,9 @@ function Intro() {
           <div className="skill">
             <h1>Data Analytics & ML</h1>
             <div className="skillImage">
-            <img src={python} alt="python"></img>
+            {/* <img src={python} alt="python"></img>
             <img src={numpy}  alt="numpys"></img>
-            <img src={pandas} alt="pandas"></img>
+            <img src={pandas} alt="pandas"></img> */}
           </div>
           </div>
           <div className="description">

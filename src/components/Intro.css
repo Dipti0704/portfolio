@@ -74,11 +74,11 @@
     height: auto;
 }
 .image img{
-    width: 40vw;
+    width: 30vw;
     height: auto;
 }
 .description{
-    margin-right: 10%;
+   
 }
 .skillImage{
     display: flex;

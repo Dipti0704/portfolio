@@ -36,16 +36,25 @@
     text-align: center;
    
     padding-bottom: 10em;
+    font-family: 'Courier New', Courier, monospace;
 }
 .webdev{
     padding-left: 10em;
     padding-right: 10em;
+    font-family: 'Courier New', Courier, monospace;
+}
+.webdev h1{
+    font-size: 2em;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 .intro2{
-    background-color:  rgb(105, 73, 103) ;
+    /* background-color: rgb(117, 110, 87); */
 }
 .text{
     text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .dimg{
@@ -66,10 +75,12 @@
 .dsaText h1{
     font-size: 2em;
     text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .dsaText{
     text-align: justify;
     padding-left: 10em;
     padding-right: 10em;
+    font-family: 'Courier New', Courier, monospace;
 }

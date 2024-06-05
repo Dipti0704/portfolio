@@ -40,7 +40,7 @@
     text-decoration: none;
     height: 1vh;
     width: 50vw;
-    background-color: rgb(93, 93, 150);
+    background-color: rgb(113, 116, 74);
     color: black;
     text-align: center ;
     list-style: none;
@@ -48,13 +48,13 @@
 }
 .button li:hover{
     cursor: pointer;
-    background-color: rgb(155, 65, 150);
+    background-color: rgb(80, 82, 63);
 }
 .box3 li{
     color: black;
     list-style: none;
     text-align: center;
-    background-color: rgb(155, 65, 150);
+    background-color: rgb(113, 116, 74);
     height: 4vh;
     width: 50vw;
     padding-left: 4rem;
@@ -63,7 +63,7 @@
 }
 .box3 li:hover{
     cursor: pointer;
-    background-color: rgb(93, 93, 150);
+    background-color: rgb(80, 82, 63);
 }
 .container2{
    display: flex;

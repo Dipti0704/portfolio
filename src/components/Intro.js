@@ -17,14 +17,14 @@ function Intro() {
           <h1>
             Hello all, I am Dipti Hatwar <span class="wave">👋</span>
           </h1>
-          <h3>
+          <h2>
             {" "}
             A passionate Developer having an experience in Data Analytics,
             Machine Learning and Web Development and want to develop sustainable
-            and scalable social and technical systems to create impact
-          </h3>
+            and scalable social and technical systems to create impact.
+          </h2>
           <div class="social-container">
-            <a href="#a">
+            <a href="https://github.com/Dipti0704">
               <img
                 style={{ width: 50, height: 50 }}
                 src={github}
@@ -32,7 +32,7 @@ function Intro() {
                 className="images"
               />
             </a>
-            <a href="#b">
+            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
               <img
                 style={{ width: 50, height: 50 }}
                 src={gmail}
@@ -40,7 +40,7 @@ function Intro() {
                 className="images"
               />
             </a>
-            <a href="#c">
+            <a href="https://www.linkedin.com/in/dipti-hatwar-024027289/">
               <img
                 style={{ width: 50, height: 50 }}
                 src={linkdin}
@@ -55,9 +55,9 @@ function Intro() {
         </div>
       </div>
       <div className="whatIdo">
-          <h1> What I Do?</h1>
+        <h1> What I Do?</h1>
       </div>
-      <div className="one"> 
+      <div className="one">
         <div className="image">
           <img src={dataAnalysis} alt="img" />
         </div>
@@ -65,10 +65,10 @@ function Intro() {
           <div className="skill">
             <h1>Data Analytics & ML</h1>
             <div className="skillImage">
-            {/* <img src={python} alt="python"></img>
+              {/* <img src={python} alt="python"></img>
             <img src={numpy}  alt="numpys"></img>
             <img src={pandas} alt="pandas"></img> */}
-          </div>
+            </div>
           </div>
           <div className="description">
             <h2>
@@ -78,12 +78,11 @@ function Intro() {
               the data.
             </h2>
 
-              <h2>
-                💥 Experience of working with different python Libraries like
-                Numpy, Pandas, Matplotlib, Seaborn etc. and have knowledge of
-                Data analysis algorithms and techniques.
-              </h2>
-            
+            <h2>
+              💥 Experience of working with different python Libraries like
+              Numpy, Pandas, Matplotlib, Seaborn etc. and have knowledge of Data
+              analysis algorithms and techniques.
+            </h2>
           </div>
         </div>
       </div>

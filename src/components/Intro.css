@@ -1,13 +1,14 @@
 .firstPart {
-    background-color: rgb(105, 73, 103);
+    /* background-color: rgb(117, 110, 87); */
     text-align: left ;
     padding: 20px;
     display: flex;
+    font-family: 'Courier New', Courier, monospace;
 
 
 }
 .intro{
-    background-color: rgb(105, 73, 103);
+    /* background-color: rgb(117, 110, 87); */
  
 }
 .social-container{
@@ -22,7 +23,7 @@
 }
 .images:hover{
     cursor: pointer;
-    background-color: rgb(155, 65, 150);
+    background-color: rgb(117, 110, 87);
     border-radius: 10 px ;
 }
 .IntroImage{
@@ -33,6 +34,7 @@
     padding-left: 10em;
     padding-right: 10em;
     padding-bottom: 10em;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 .intro_container{
@@ -41,21 +43,25 @@
     text-align: justify;
     padding-right: 4em
     ;
+    font-family: 'Courier New', Courier, monospace;
     
 }
 
 .whatIdo h1{
     font-size: 3em;
     text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .skill h1{
     font-size: 2em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .one{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .skill_and_description{
@@ -64,6 +70,7 @@
     max-width: 40vw;
     justify-content: center;
     align-items: center;
+    font-family: 'Courier New', Courier, monos
 }
 
 
@@ -72,13 +79,14 @@
 .image{
     max-width: 10vw;
     height: auto;
+    font-family: 'Courier New', Courier, monospace;
 }
 .image img{
     width: 30vw;
     height: auto;
 }
 .description{
-   
+   font-family: 'Courier New', Courier, monospace;
 }
 .skillImage{
     display: flex;

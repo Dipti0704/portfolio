@@ -22,7 +22,7 @@ function Contact() {
           </div>
 
           <div class="social-container">
-            <a href="#a">
+            <a href="https://github.com/Dipti0704">
               <img
                 style={{ width: 50, height: 50 }}
                 src={github}
@@ -30,7 +30,7 @@ function Contact() {
                 className="images"
               />
             </a>
-            <a href="#b">
+            <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
               <img
                 style={{ width: 50, height: 50 }}
                 src={gmail}
@@ -38,7 +38,7 @@ function Contact() {
                 className="images"
               />
             </a>
-            <a href="#c">
+            <a href="https://www.linkedin.com/in/dipti-hatwar-024027289/">
               <img
                 style={{ width: 50, height: 50 }}
                 src={linkdin}

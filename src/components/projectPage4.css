@@ -1,17 +1,21 @@
 .box1 img{
-    width:  40vw;
+    width:  50vw;
     height: auto;
+   
+
     
 }
 .box1{
     padding-top: 6rem;
+    
 }
 .container1{
     display: flex;
     justify-content: space-between;
     align-items: top;
     
-   
+    /* background-color: rgb(117, 110, 87); */
+
     color: #d1c7c7;
     /*min-height: 10vh;*/
     /* width: 100vw; */
@@ -22,11 +26,16 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    color: #777272;
+    color: #e9ebdf;
     padding-left: 4rem;
     padding-right: 4rem;
 
 }
 .box2 h1{
-    color: black;
+    color: rgb(97, 104, 72);
+    font-size: 3em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box2 h3{
+    font-family: 'Courier New', Courier, monospace;
 }
